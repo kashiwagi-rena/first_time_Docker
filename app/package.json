@@ -1,0 +1,15 @@
+{
+  "name": "first_time_docker",
+  "version": "1.0.0",
+  "description": "## なぜ行うのか ・Docker環境を立ち上げようと思ったが、今まであまり触ったことがなく大変困っているためまず簡単な記事を模倣して、ハンズオンで行いたかったため ・メモ的な使い方をするためかなりコメントアウトも多いものになる予定",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
